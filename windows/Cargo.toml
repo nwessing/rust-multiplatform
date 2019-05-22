@@ -1,0 +1,7 @@
+[package]
+name = "windows"
+version = "0.1.0"
+authors = ["Nick Wessing <nick.wessing@centare.com>"]
+
+[dependencies]
+core = { path = "../core" }

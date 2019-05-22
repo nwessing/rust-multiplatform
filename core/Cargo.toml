@@ -1,0 +1,6 @@
+[package]
+name = "core"
+version = "0.1.0"
+authors = ["Nick Wessing <nick.wessing@centare.com>"]
+
+[dependencies]
